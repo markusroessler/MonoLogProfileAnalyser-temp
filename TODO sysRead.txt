@@ -1,0 +1,4 @@
+0ms blocked ???
+System.IO.FileSystemWatcher/RunningInstance:TryReadEvent (System.IO.FileSystemWatcher/RunningInstance/NotifyEvent&) - 51740ms CPU + 0ms blocked = 51740ms total (5174 samples)
+    Interop/Sys:Read (Microsoft.Win32.SafeHandles.SafeFileHandle,byte*,int) - 51740ms CPU + 0ms blocked = 51740ms total (5174 samples)
+        (wrapper managed-to-native) Interop/Sys:Read (intptr,byte*,int) - 51740ms CPU + 0ms blocked = 51740ms total (5174 samples)
